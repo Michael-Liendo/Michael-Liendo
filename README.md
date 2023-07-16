@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://michaelliendo.com/favicon.png" style="object-fit: cover; width: 200px; height: 100px;" />
+  <img src="https://github.com/Michael-Liendo/Michael-Liendo/assets/70660410/7f6662a8-e4c8-4668-9698-75ac8ed1d854" style="width: 200px;" />
 </div>
 
 <p align="center">
   <samp>
-    <a href="https://michaelliendo.com">website</a> ⌘
-    <a href="https://michaelliendo.com/notes">notes</a> ⌘
+    <a href="https://michaelliendo.com">website</a> x
+    <a href="https://michaelliendo.com/notes">notes</a> x
     <a href="https://www.linkedin.com/in/michaelliendo">linkedin</a>
   </samp>
 </p>
