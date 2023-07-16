@@ -5,7 +5,7 @@
 <p align="center">
   <samp>
     <a href="https://michaelliendo.com">website</a> x
-    <a href="https://michaelliendo.com/notes">notes</a> x
+    <a href="https://michaelliendo.com/en/notes">notes</a> x
     <a href="https://www.linkedin.com/in/michaelliendo">linkedin</a>
   </samp>
 </p>
